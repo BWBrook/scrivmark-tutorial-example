@@ -1,0 +1,20 @@
+{
+  "scrivmark": 1,
+  "round": {
+    "id": "2026-11-03-bwb",
+    "reviewer": {
+      "name": "Barry W. Brook",
+      "initials": "BWB"
+    },
+    "author": null,
+    "author_branch": "main",
+    "base": "80b6f5b011d07c3bd273d4f9d1dc9d56067b6ca1",
+    "returned": null,
+    "integrated": null,
+    "closed": null,
+    "status": "open",
+    "statement": "Reviewed by Barry W. Brook working with Claude (Opus 5.5)."
+  },
+  "changes": [],
+  "threads": []
+}
