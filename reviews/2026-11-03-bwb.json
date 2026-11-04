@@ -14,8 +14,8 @@
     "base": "80b6f5b011d07c3bd273d4f9d1dc9d56067b6ca1",
     "returned": "d62b0fe8ab4608f67362d8a5be2794a7b148e12b",
     "integrated": "80b6f5b011d07c3bd273d4f9d1dc9d56067b6ca1",
-    "closed": null,
-    "status": "returned",
+    "closed": "2026-11-04T13:19:41+11:00",
+    "status": "closed",
     "statement": "Reviewed by Barry W. Brook working with Claude (Opus 5.5)."
   },
   "changes": [
