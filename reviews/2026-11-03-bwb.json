@@ -6,7 +6,10 @@
       "name": "Barry W. Brook",
       "initials": "BWB"
     },
-    "author": null,
+    "author": {
+      "name": "Sam Student",
+      "initials": "SS"
+    },
     "author_branch": "main",
     "base": "80b6f5b011d07c3bd273d4f9d1dc9d56067b6ca1",
     "returned": "d62b0fe8ab4608f67362d8a5be2794a7b148e12b",
