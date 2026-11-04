@@ -16,5 +16,259 @@
     "statement": "Reviewed by Barry W. Brook working with Claude (Opus 5.5)."
   },
   "changes": [],
-  "threads": []
+  "threads": [
+    {
+      "id": "t-fed34e5b",
+      "status": "open",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:8a7827019ddaa46b",
+        "range": [
+          468,
+          486
+        ],
+        "exact": "This practice note",
+        "prefix": "ing observed [@mackenzie2002].\n\n",
+        "suffix": " asks whether burrow occupancy d"
+      },
+      "messages": [
+        {
+          "id": "m-cc7d4710",
+          "by": "BWB",
+          "at": "2026-11-03T18:01:23+11:00",
+          "body": "tutorial is probably a better word"
+        }
+      ]
+    },
+    {
+      "id": "t-453f4f9b",
+      "status": "open",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:8a7827019ddaa46b",
+        "range": [
+          829,
+          889
+        ],
+        "exact": "with the probability of detecting use at least once given by",
+        "prefix": "ity $p$ were estimated jointly,\n",
+        "suffix": "\n\n$$p^* = 1 - (1 - p)^K$$ {#eq-d"
+      },
+      "messages": [
+        {
+          "id": "m-26692b6e",
+          "by": "BWB",
+          "at": "2026-11-03T21:18:46+11:00",
+          "body": "This expression holds only for burrows that are in use, and it assumes detection is constant across visits, visits are independent, and use does not change over the three visits (closure). Could you state these assumptions here, or point to where they are tested?"
+        }
+      ]
+    },
+    {
+      "id": "t-186b1e49",
+      "status": "open",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:8a7827019ddaa46b",
+        "range": [
+          1851,
+          1912
+        ],
+        "exact": "Future work should should test this\nwith temperature loggers.",
+        "prefix": "its drive the choice of burrow. ",
+        "suffix": "\n"
+      },
+      "messages": [
+        {
+          "id": "m-e1c95c5a",
+          "by": "BWB",
+          "at": "2026-11-03T21:20:25+11:00",
+          "body": "Vague: try to be more specific about how feasible this would be."
+        }
+      ]
+    },
+    {
+      "id": "t-e02445da",
+      "status": "open",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:2b39d1d248a059f4",
+        "range": [
+          1217,
+          1221
+        ],
+        "exact": "were",
+        "prefix": "oyle2003].\n\n# Results\n\nThe data ",
+        "suffix": " clear. Occupancy was highest fo"
+      },
+      "messages": [
+        {
+          "id": "m-587d5b0b",
+          "by": "BWB",
+          "at": "2026-11-03T21:54:20+11:00",
+          "body": "\"Data\" is plural in scientific usage; suggest \"The data were clear.\""
+        }
+      ]
+    },
+    {
+      "id": "t-481287ce",
+      "status": "open",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:4b8ad3ebd18828f5",
+        "range": [
+          1474,
+          1510
+        ],
+        "exact": "|:-----------|--------:|----------:|",
+        "prefix": "ect     | Burrows | Occupancy |\n",
+        "suffix": "\n| North      |      30 |      0"
+      },
+      "messages": [
+        {
+          "id": "m-bfa0e2ff",
+          "by": "BWB",
+          "at": "2026-11-03T21:54:41+11:00",
+          "body": "Set the Aspect column explicitly left-aligned so its header lines up with the rows below."
+        }
+      ]
+    },
+    {
+      "id": "t-9ac058b8",
+      "status": "open",
+      "anchor": {
+        "file": "refs.bib",
+        "rev": "git:f0fcdfd1f4ee6ed47ba33825d38df3e7f04371e1",
+        "range": [
+          143,
+          215
+        ],
+        "exact": "url={http://dx.doi.org/10.1890/0012-9658(2002)083[2248:ESORWD]2.0.CO;2},",
+        "prefix": " volume={83}, ISSN={0012-9658}, ",
+        "suffix": " DOI={10.1890/0012-9658(2002)083"
+      },
+      "messages": [
+        {
+          "id": "m-b375dbd6",
+          "by": "BWB",
+          "at": "2026-11-03T21:55:02+11:00",
+          "body": "The url field repeats the DOI through the old dx.doi.org resolver. Suggest dropping url from both entries and keeping DOI, which pandoc already links. If refs.bib is exported from Zotero, fix this there rather than in the file."
+        }
+      ]
+    },
+    {
+      "id": "t-b6df4e7f",
+      "status": "open",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:88d795131d9a0a78",
+        "range": [
+          673,
+          714
+        ],
+        "exact": "proves that wombats prefer sunny burrows.",
+        "prefix": "cupancy differs with aspect. It\n",
+        "suffix": "[^data]\n\n[^data]: The numbers in"
+      },
+      "messages": [
+        {
+          "id": "m-c8c1fb9b",
+          "by": "BWB",
+          "at": "2026-11-03T21:57:25+11:00",
+          "body": "An occupancy survey can show an association with aspect, but it cannot prove a preference. Suggest stating the aim as a question here (\"whether occupancy is higher on sunny aspects\") and keeping conclusions for the Discussion."
+        }
+      ]
+    },
+    {
+      "id": "t-90e3d1c4",
+      "status": "open",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:88d795131d9a0a78",
+        "range": [
+          1251,
+          1293
+        ],
+        "exact": "- east and west, the intermediate aspects.",
+        "prefix": " north-west, the sunny aspects;\n",
+        "suffix": "\n\nWe did not estimate abundance,"
+      },
+      "messages": [
+        {
+          "id": "m-8f9561cb",
+          "by": "BWB",
+          "at": "2026-11-03T21:57:25+11:00",
+          "body": "Two things about the grouping. The Results report four aspects separately, not these two groups, so say which was analysed. And with no south-facing (shaded) burrows in the sample, the design lacks the low-sun end of the contrast it is testing."
+        }
+      ]
+    },
+    {
+      "id": "t-452fc0cb",
+      "status": "open",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:88d795131d9a0a78",
+        "range": [
+          990,
+          1012
+        ],
+        "exact": "were estimated jointly",
+        "prefix": "$ and detection probability $p$ ",
+        "suffix": ",\nwith the probability of detect"
+      },
+      "messages": [
+        {
+          "id": "m-41516733",
+          "by": "BWB",
+          "at": "2026-11-03T21:57:25+11:00",
+          "body": "Please name the model and software, and say whether detection was allowed to vary with aspect. If p was held constant across aspects, any difference in detectability would show up as a difference in occupancy."
+        }
+      ]
+    },
+    {
+      "id": "t-2389a661",
+      "status": "open",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:88d795131d9a0a78",
+        "range": [
+          1900,
+          1951
+        ],
+        "exact": "Burrows surveyed and estimated occupancy by aspect.",
+        "prefix": "     |      30 |      0.55 |\n\n: ",
+        "suffix": " {#tbl-occupancy}\n\n# Discussion\n"
+      },
+      "messages": [
+        {
+          "id": "m-6763236d",
+          "by": "BWB",
+          "at": "2026-11-03T21:57:25+11:00",
+          "body": "The figure shows 95% intervals but the table gives point estimates only. Adding the intervals here would let readers judge whether north-west really differs from east and west."
+        }
+      ]
+    },
+    {
+      "id": "t-7f117e8b",
+      "status": "open",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:88d795131d9a0a78",
+        "range": [
+          1984,
+          2052
+        ],
+        "exact": "Wombats clearly prefer the sunniest aspect, which shows that thermal",
+        "prefix": "{#tbl-occupancy}\n\n# Discussion\n\n",
+        "suffix": "\nbenefits drive the choice of bu"
+      },
+      "messages": [
+        {
+          "id": "m-c060ee1d",
+          "by": "BWB",
+          "at": "2026-11-03T21:57:26+11:00",
+          "body": "\"Clearly\" and \"shows\" are stronger than one season of invented data can carry, and north-facing burrows had the lowest occupancy. Suggest \"Occupancy was highest on north-west aspects, consistent with a thermal benefit\" and treat the mechanism as a hypothesis."
+        }
+      ]
+    }
+  ]
 }
