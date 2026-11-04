@@ -1,0 +1,719 @@
+{
+  "scrivmark": 1,
+  "round": {
+    "id": "2026-11-03-bwb",
+    "reviewer": {
+      "name": "Barry W. Brook",
+      "initials": "BWB"
+    },
+    "author": {
+      "name": "Sam Student",
+      "initials": "SS"
+    },
+    "author_branch": "main",
+    "base": "80b6f5b011d07c3bd273d4f9d1dc9d56067b6ca1",
+    "returned": "d62b0fe8ab4608f67362d8a5be2794a7b148e12b",
+    "integrated": "80b6f5b011d07c3bd273d4f9d1dc9d56067b6ca1",
+    "closed": "2026-11-04T13:19:41+11:00",
+    "status": "closed",
+    "statement": "Reviewed by Barry W. Brook working with Claude (Opus 5.5)."
+  },
+  "changes": [
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "",
+      "reviewer": "deep ",
+      "r_range": [
+        133,
+        138
+      ],
+      "id": "c1",
+      "decision": "rejected",
+      "by": "SS",
+      "at": "2026-11-04T13:16:17+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "heat and cold",
+      "reviewer": "the elements",
+      "r_range": [
+        168,
+        180
+      ],
+      "id": "c2",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "the Southern Hemisphere",
+      "reviewer": "Australia",
+      "r_range": [
+        185,
+        194
+      ],
+      "id": "c3",
+      "decision": "rejected",
+      "by": "SS",
+      "at": "2026-11-04T13:16:17+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "seen\nthere",
+      "reviewer": "observed",
+      "r_range": [
+        436,
+        444
+      ],
+      "id": "c4",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "",
+      "reviewer": "\nIf detection also varies with aspect, naive counts of used burrows could\ncreate an aspect effect where none exists, or hide a real one.",
+      "r_range": [
+        462,
+        598
+      ],
+      "id": "c5",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "on ",
+      "reviewer": "",
+      "r_range": [
+        833,
+        833
+      ],
+      "id": "c6",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "occasions",
+      "reviewer": "times",
+      "r_range": [
+        839,
+        844
+      ],
+      "id": "c7",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "sign",
+      "reviewer": "signs",
+      "r_range": [
+        863,
+        868
+      ],
+      "id": "c8",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "",
+      "reviewer": ",\nsuch as fresh scats, scratchings or spoil at the entrance",
+      "r_range": [
+        882,
+        941
+      ],
+      "id": "c9",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": " (@eq-detect)",
+      "reviewer": "",
+      "r_range": [
+        1151,
+        1151
+      ],
+      "id": "c10",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "Abundance was",
+      "reviewer": "We did",
+      "r_range": [
+        1295,
+        1301
+      ],
+      "id": "c11",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "estimated",
+      "reviewer": "estimate abundance",
+      "r_range": [
+        1306,
+        1324
+      ],
+      "id": "c12",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "it",
+      "reviewer": "doing so from\nrepeated detection data",
+      "r_range": [
+        1353,
+        1390
+      ],
+      "id": "c13",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "The data was clear. ",
+      "reviewer": "",
+      "r_range": [
+        1417,
+        1417
+      ],
+      "id": "c14",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "",
+      "reviewer": "(0.80) ",
+      "r_range": [
+        1462,
+        1469
+      ],
+      "id": "c15",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "",
+      "reviewer": "0.40); east and west burrows fell between\n(",
+      "r_range": [
+        1503,
+        1546
+      ],
+      "id": "c16",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "-",
+      "reviewer": ":",
+      "r_range": [
+        1713,
+        1714
+      ],
+      "id": "c17",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": "",
+      "reviewer": "Yet north-facing burrows, which receive\nsimilar winter sun, had the lowest occupancy, so sun exposure alone cannot\nexplain the pattern. ",
+      "r_range": [
+        2090,
+        2226
+      ],
+      "id": "c18",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    },
+    {
+      "type": "text",
+      "file": "paper.md",
+      "old_file": null,
+      "base": " should",
+      "reviewer": "",
+      "r_range": [
+        2237,
+        2237
+      ],
+      "id": "c19",
+      "decision": "accepted",
+      "by": "SS",
+      "at": "2026-11-04T13:16:18+11:00"
+    }
+  ],
+  "threads": [
+    {
+      "id": "t-fed34e5b",
+      "status": "resolved",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "git:d62b0fe8ab4608f67362d8a5be2794a7b148e12b",
+        "range": [
+          600,
+          618
+        ],
+        "exact": "This practice note",
+        "prefix": "ne exists, or hide a real one.\n\n",
+        "suffix": " asks whether burrow occupancy d"
+      },
+      "messages": [
+        {
+          "id": "m-cc7d4710",
+          "by": "BWB",
+          "at": "2026-11-03T18:01:23+11:00",
+          "body": "tutorial is probably a better word"
+        },
+        {
+          "id": "m-bf35632f",
+          "by": "SS",
+          "at": "2026-11-04T13:18:40+11:00",
+          "body": "Agreed, changed to \"tutorial note\"."
+        }
+      ]
+    },
+    {
+      "id": "t-453f4f9b",
+      "status": "resolved",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "git:d62b0fe8ab4608f67362d8a5be2794a7b148e12b",
+        "range": [
+          1014,
+          1074
+        ],
+        "exact": "with the probability of detecting use at least once given by",
+        "prefix": "ity $p$ were estimated jointly,\n",
+        "suffix": "\n\n$$p^* = 1 - (1 - p)^K$$ {#eq-d"
+      },
+      "messages": [
+        {
+          "id": "m-26692b6e",
+          "by": "BWB",
+          "at": "2026-11-03T21:18:46+11:00",
+          "body": "This expression holds only for burrows that are in use, and it assumes detection is constant across visits, visits are independent, and use does not change over the three visits (closure). Could you state these assumptions here, or point to where they are tested?"
+        },
+        {
+          "id": "m-5983089e",
+          "by": "SS",
+          "at": "2026-11-04T13:18:40+11:00",
+          "body": "Added a sentence after the equation stating constant detection, independent visits and closure. None is tested in this note; the footnote says the data are invented."
+        }
+      ]
+    },
+    {
+      "id": "t-186b1e49",
+      "status": "resolved",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "git:d62b0fe8ab4608f67362d8a5be2794a7b148e12b",
+        "range": [
+          2090,
+          2280
+        ],
+        "exact": "Yet north-facing burrows, which receive\nsimilar winter sun, had the lowest occupancy, so sun exposure alone cannot\nexplain the pattern. Future work should test this with temperature loggers.",
+        "prefix": "its drive the choice of burrow. ",
+        "suffix": "\n"
+      },
+      "messages": [
+        {
+          "id": "m-e1c95c5a",
+          "by": "BWB",
+          "at": "2026-11-03T21:20:25+11:00",
+          "body": "Vague: try to be more specific about how feasible this would be."
+        },
+        {
+          "id": "m-37380c40",
+          "by": "SS",
+          "at": "2026-11-04T13:18:41+11:00",
+          "body": "Rewrote it as a concrete design: loggers in a sample of burrows on each aspect over one winter, to test whether temperature rather than aspect predicts use."
+        }
+      ]
+    },
+    {
+      "id": "t-e02445da",
+      "status": "resolved",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:2b39d1d248a059f4",
+        "range": [
+          1217,
+          1221
+        ],
+        "exact": "were",
+        "prefix": "oyle2003].\n\n# Results\n\nThe data ",
+        "suffix": " clear. Occupancy was highest fo"
+      },
+      "messages": [
+        {
+          "id": "m-587d5b0b",
+          "by": "BWB",
+          "at": "2026-11-03T21:54:20+11:00",
+          "body": "\"Data\" is plural in scientific usage; suggest \"The data were clear.\""
+        },
+        {
+          "id": "m-d0654973",
+          "by": "SS",
+          "at": "2026-11-04T13:18:42+11:00",
+          "body": "Your edit removed the sentence, so there is nothing left to fix."
+        }
+      ]
+    },
+    {
+      "id": "t-481287ce",
+      "status": "resolved",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "git:d62b0fe8ab4608f67362d8a5be2794a7b148e12b",
+        "range": [
+          1712,
+          1748
+        ],
+        "exact": "|:-----------|--------:|----------:|",
+        "prefix": "ect     | Burrows | Occupancy |\n",
+        "suffix": "\n| North      |      30 |      0"
+      },
+      "messages": [
+        {
+          "id": "m-bfa0e2ff",
+          "by": "BWB",
+          "at": "2026-11-03T21:54:41+11:00",
+          "body": "Set the Aspect column explicitly left-aligned so its header lines up with the rows below."
+        },
+        {
+          "id": "m-082da03d",
+          "by": "SS",
+          "at": "2026-11-04T13:18:42+11:00",
+          "body": "Accepted your edit to the separator row."
+        }
+      ]
+    },
+    {
+      "id": "t-9ac058b8",
+      "status": "resolved",
+      "anchor": {
+        "file": "refs.bib",
+        "rev": "git:d62b0fe8ab4608f67362d8a5be2794a7b148e12b",
+        "range": [
+          143,
+          215
+        ],
+        "exact": "url={http://dx.doi.org/10.1890/0012-9658(2002)083[2248:ESORWD]2.0.CO;2},",
+        "prefix": " volume={83}, ISSN={0012-9658}, ",
+        "suffix": " DOI={10.1890/0012-9658(2002)083"
+      },
+      "messages": [
+        {
+          "id": "m-b375dbd6",
+          "by": "BWB",
+          "at": "2026-11-03T21:55:02+11:00",
+          "body": "The url field repeats the DOI through the old dx.doi.org resolver. Suggest dropping url from both entries and keeping DOI, which pandoc already links. If refs.bib is exported from Zotero, fix this there rather than in the file."
+        },
+        {
+          "id": "m-9816c2b8",
+          "by": "SS",
+          "at": "2026-11-04T13:18:43+11:00",
+          "body": "This refs.bib is hand-made for the tutorial, not a Zotero export, so I removed the url fields from both entries here."
+        }
+      ]
+    },
+    {
+      "id": "t-b6df4e7f",
+      "status": "resolved",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "git:d62b0fe8ab4608f67362d8a5be2794a7b148e12b",
+        "range": [
+          673,
+          714
+        ],
+        "exact": "proves that wombats prefer sunny burrows.",
+        "prefix": "cupancy differs with aspect. It\n",
+        "suffix": "[^data]\n\n[^data]: The numbers in"
+      },
+      "messages": [
+        {
+          "id": "m-c8c1fb9b",
+          "by": "BWB",
+          "at": "2026-11-03T21:57:25+11:00",
+          "body": "An occupancy survey can show an association with aspect, but it cannot prove a preference. Suggest stating the aim as a question here (\"whether occupancy is higher on sunny aspects\") and keeping conclusions for the Discussion."
+        },
+        {
+          "id": "m-8cc2acd5",
+          "by": "SS",
+          "at": "2026-11-04T13:18:44+11:00",
+          "body": "Reworded the aim as a question and moved all claims to the Discussion."
+        }
+      ]
+    },
+    {
+      "id": "t-90e3d1c4",
+      "status": "resolved",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "git:d62b0fe8ab4608f67362d8a5be2794a7b148e12b",
+        "range": [
+          1251,
+          1293
+        ],
+        "exact": "- east and west, the intermediate aspects.",
+        "prefix": " north-west, the sunny aspects;\n",
+        "suffix": "\n\nWe did not estimate abundance,"
+      },
+      "messages": [
+        {
+          "id": "m-8f9561cb",
+          "by": "BWB",
+          "at": "2026-11-03T21:57:25+11:00",
+          "body": "Two things about the grouping. The Results report four aspects separately, not these two groups, so say which was analysed. And with no south-facing (shaded) burrows in the sample, the design lacks the low-sun end of the contrast it is testing."
+        },
+        {
+          "id": "m-a3dcf754",
+          "by": "SS",
+          "at": "2026-11-04T13:18:44+11:00",
+          "body": "Fair on both. The analysis used the four aspects, so I replaced the two-group list with that. There were no south-facing burrows in the study area, so I've stated that the comparison lacks its shaded end rather than claim a sun gradient."
+        }
+      ]
+    },
+    {
+      "id": "t-452fc0cb",
+      "status": "resolved",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "git:d62b0fe8ab4608f67362d8a5be2794a7b148e12b",
+        "range": [
+          990,
+          1012
+        ],
+        "exact": "were estimated jointly",
+        "prefix": "$ and detection probability $p$ ",
+        "suffix": ",\nwith the probability of detect"
+      },
+      "messages": [
+        {
+          "id": "m-41516733",
+          "by": "BWB",
+          "at": "2026-11-03T21:57:25+11:00",
+          "body": "Please name the model and software, and say whether detection was allowed to vary with aspect. If p was held constant across aspects, any difference in detectability would show up as a difference in occupancy."
+        },
+        {
+          "id": "m-201cf884",
+          "by": "SS",
+          "at": "2026-11-04T13:18:45+11:00",
+          "body": "Named the model (single-season occupancy) and said that p was held constant across aspects. I take the point that this could turn a detection difference into an occupancy difference; with invented data I've left it as a stated assumption."
+        }
+      ]
+    },
+    {
+      "id": "t-2389a661",
+      "status": "resolved",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "git:d62b0fe8ab4608f67362d8a5be2794a7b148e12b",
+        "range": [
+          1900,
+          1951
+        ],
+        "exact": "Burrows surveyed and estimated occupancy by aspect.",
+        "prefix": "     |      30 |      0.55 |\n\n: ",
+        "suffix": " {#tbl-occupancy}\n\n# Discussion\n"
+      },
+      "messages": [
+        {
+          "id": "m-6763236d",
+          "by": "BWB",
+          "at": "2026-11-03T21:57:25+11:00",
+          "body": "The figure shows 95% intervals but the table gives point estimates only. Adding the intervals here would let readers judge whether north-west really differs from east and west."
+        },
+        {
+          "id": "m-016c1d43",
+          "by": "SS",
+          "at": "2026-11-04T13:18:46+11:00",
+          "body": "Kept the table to point estimates, since the figure carries the intervals, and the caption now points there."
+        }
+      ]
+    },
+    {
+      "id": "t-7f117e8b",
+      "status": "resolved",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "git:d62b0fe8ab4608f67362d8a5be2794a7b148e12b",
+        "range": [
+          1984,
+          2052
+        ],
+        "exact": "Wombats clearly prefer the sunniest aspect, which shows that thermal",
+        "prefix": "{#tbl-occupancy}\n\n# Discussion\n\n",
+        "suffix": "\nbenefits drive the choice of bu"
+      },
+      "messages": [
+        {
+          "id": "m-c060ee1d",
+          "by": "BWB",
+          "at": "2026-11-03T21:57:26+11:00",
+          "body": "\"Clearly\" and \"shows\" are stronger than one season of invented data can carry, and north-facing burrows had the lowest occupancy. Suggest \"Occupancy was highest on north-west aspects, consistent with a thermal benefit\" and treat the mechanism as a hypothesis."
+        },
+        {
+          "id": "m-0e6f5c45",
+          "by": "SS",
+          "at": "2026-11-04T13:18:46+11:00",
+          "body": "Used your wording, and added that one season cannot establish the mechanism."
+        }
+      ]
+    },
+    {
+      "id": "t-c65edd1c",
+      "status": "resolved",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:d51380a2eb2a4a4c",
+        "range": [
+          129,
+          140
+        ],
+        "exact": "dig burrows",
+        "prefix": "ed wombats (*Vombatus ursinus*) ",
+        "suffix": " that buffer them from\nthe eleme"
+      },
+      "messages": [
+        {
+          "id": "m-e9617393",
+          "by": "SS",
+          "at": "2026-11-04T13:16:19+11:00",
+          "body": "Kept \"dig burrows\": burrow depth wasn't measured, so \"deep\" says more than the note can support."
+        }
+      ]
+    },
+    {
+      "id": "t-995f72b9",
+      "status": "resolved",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:d51380a2eb2a4a4c",
+        "range": [
+          177,
+          203
+        ],
+        "exact": "In the Southern Hemisphere",
+        "prefix": " buffer them from\nthe elements. ",
+        "suffix": ", slopes that face north and\nnor"
+      },
+      "messages": [
+        {
+          "id": "m-75dd62d4",
+          "by": "SS",
+          "at": "2026-11-04T13:16:19+11:00",
+          "body": "Kept \"Southern Hemisphere\": it is the reason north-facing slopes get the winter sun, which \"Australia\" no longer says."
+        }
+      ]
+    }
+  ],
+  "asks": [
+    {
+      "id": "q-e1ed86b2",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:8a7827019ddaa46b",
+        "range": [
+          1217,
+          1220
+        ],
+        "exact": "was",
+        "prefix": "oyle2003].\n\n# Results\n\nThe data ",
+        "suffix": " clear. Occupancy was highest fo"
+      },
+      "question": "Isn't data plural?",
+      "answer": "Yes. In scientific writing \"data\" is usually treated as plural, so \"The data were clear.\" Most journals in the field follow this convention.",
+      "at": "2026-11-03T21:19:09+11:00",
+      "done": false,
+      "answered_at": "2026-11-03T21:53:06+11:00",
+      "answered_by": "Claude Opus 5.5",
+      "wording": null
+    },
+    {
+      "id": "q-e14961d2",
+      "anchor": {
+        "file": "paper.md",
+        "rev": "snap:8a7827019ddaa46b",
+        "range": [
+          1438,
+          1444
+        ],
+        "exact": "Aspect",
+        "prefix": "s/burrows.svg){#fig-burrows}\n\n| ",
+        "suffix": "     | Burrows | Occupancy |\n|--"
+      },
+      "question": "This needs left aligning to match the later rows",
+      "answer": "The separator row gives no alignment for the Aspect column, so pandoc leaves it to the browser, which centres header cells but left-aligns body cells. Adding a leading colon (|:-----------|) makes the whole column, header included, explicitly left-aligned.",
+      "at": "2026-11-03T21:19:31+11:00",
+      "done": false,
+      "answered_at": "2026-11-03T21:53:06+11:00",
+      "answered_by": "Claude Opus 5.5",
+      "wording": null
+    }
+  ]
+}
